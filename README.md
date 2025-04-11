@@ -38,16 +38,16 @@ This assignment should prove that a student is able to:
 - [x] Fork the project to your github account
 - [x] Clone the project to your computer
 - [x] Open the project in VSCode with `code <cloned_repo_folder_name>`
-- [ ] Initialize playwright and install project packages
+- [x] Initialize playwright and install project packages
   - [x] Use `npm i` to install packages
   - [x] Use `npm run browser-install` to install the browser environment for testing
 - [x] All the tasks of the "Specific requirements" section MUST be solved
-- [ ] All the tests MUST pass. Fix any errors before you submit (acceptance criteria).
-  - [ ] Use `npm run test` to run all tests in the terminal
-  - [ ] Use `npm run test-part1` to run the tests for the first part of specific requirements in the terminal
-  - [ ] Use `npm run test-part2` to run the tests for the second part of specific requirements in the terminal
-  - [ ] (Optional) Use `npm run test-ui` to run all the tests with GUI
-  - [ ] (Optional) Use `npm run show-report` to see the latest report in the browser
+- [x] All the tests MUST pass. Fix any errors before you submit (acceptance criteria).
+  - [x] Use `npm run test` to run all tests in the terminal
+  - [x] Use `npm run test-part1` to run the tests for the first part of specific requirements in the terminal
+  - [x] Use `npm run test-part2` to run the tests for the second part of specific requirements in the terminal
+  - [x] (Optional) Use `npm run test-ui` to run all the tests with GUI
+  - [x] (Optional) Use `npm run show-report` to see the latest report in the browser
 - [x] VSCode IDE MUST have 0 code problems listed (spelling problems are fine)
 - [x] The code MUST be formatted with Prettier
 - [x] Push the changes to the Github repo, when finished.
@@ -87,8 +87,8 @@ All the tasks in the requirements are related to the index.html file! Consider "
 - [x] In the head section connect a JS file, available by the following path: `./js/scripts.js`. Make sure it will be executed after the html is parsed.
 - [x] The page heading should have the id of "candidate-name"
 - [x] The desired role section heading should the id of "candidate-desired-role"
-- [ ] The "About me" section heading should have an id of "about-me".
-- [ ] The image should have the id of "candidate-image"
+- [x] The "About me" section heading should have an id of "about-me".
+- [x] The image should have the id of "candidate-image"
 - [x] The bio paragraph should have a class name of "candidate-bio"
 - [x] The skills section heading should have the id of "skills"
 - [x] The skills list should have the id of "skills-list"
